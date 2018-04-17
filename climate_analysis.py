@@ -1,4 +1,4 @@
-""" Some fance description """
+""" Some more fance description """
 import sys
 import temp_conversion
 import signal
